@@ -1,1 +1,2 @@
 # ChitChatMERN
+ChitChat MERN is an innovative real-time chat application built using cutting-edge technologies to provide seamless communication experiences. Leveraging the power of the MERN (MongoDB, Express.js, React.js, Node.js) stack along with Socket.IO for real-time communication, Daisy UI and Tailwind CSS for sleek and responsive design, this application offers a robust and dynamic platform for users to connect and converse.

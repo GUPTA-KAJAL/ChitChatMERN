@@ -10,20 +10,5 @@ Backend: Node JS, JWT, MongoDB, Mongoose
 Real-Time Messaging: Socket.IO
 
 
-<h2>Run Locally</h2>
 
-<h3>Clone the project</h3>
 
-git clone https://github.com/GUPTA-KAJAL/ChitChatMERN.git
-
-<h3>Go to the project directory</h3>
-
-cd ChitChatMERN
-
-<h3>Install dependencies</h3>
-
-npm install
-
-<h3>Start the server</h3>
-
-npm run start
